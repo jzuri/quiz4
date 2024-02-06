@@ -1,8 +1,8 @@
 # run.py
 
-from folder1.module1 import function1
-from folder2.module2 import function2
-from folder3.module3 import function3
+from TestF1.code1 import function1
+from TestF2.code2 import function2
+from TestF3.code3 import function3
 
 def main():
     result1 = function1()
